@@ -38,7 +38,7 @@ function sendWhatsAppMessage() {
     }
 
     var numbersText = selectedNumbers.join(', ');
-    var url = "https://wa.me/+527535339974?text=Estoy%20interesado%20en%20los%20números:%20" + numbersText;
+    var url = "https://wa.me/+525532391425?text=Estoy%20interesado%20en%20los%20números:%20" + numbersText;
     window.open(url);
 }
 
